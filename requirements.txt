@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.10.0
+SpeechRecognition==3.10.0
+python-dotenv~=0.21.1
+soundfile~=0.12.1
